@@ -1,9 +1,10 @@
-One Image Server
 
 One Image Server embeds a single image at compile time and serves that image at runtime, no matter what you ask for.
 
 The image can be anything you want, assuming it's legal for you to use.
+
 Examples
+
 * Test image during development/qa
 * A maintenance image when your servers are down
 * Your significant other that you need to see periodically and never can find their picture
