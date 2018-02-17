@@ -41,7 +41,7 @@ Copy just the binary to wherever and run it.
    ./one-image-server
 ```
 
-Once it's up, point your browser to "http://<server>:9666/"
+Once it's up, point your browser to "http://&lt;server&gt;:9666/"
 and enjoy, over and over.
 
 Rationale
@@ -54,4 +54,9 @@ I didn't care about the image as much as getting something valid from the reques
 Development Notes
 =================
 jteeuwen go-bindata disappeared at one point.
-Alternative: go get -u github.com/a-urth/go-bindata/...
+
+Alternative: 
+```
+go get -u github.com/a-urth/go-bindata/...
+```
+
