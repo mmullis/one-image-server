@@ -1,4 +1,3 @@
-
 One Image Server embeds a single image at compile time and serves that image at runtime, no matter what you ask for.
 
 The image can be anything you want, assuming it's legal for you to use.
